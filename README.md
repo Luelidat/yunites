@@ -26,8 +26,9 @@ I believe that AI with intelligence that surpasses humans will one day arrive. I
  3. Study quantum mechanics
    양자역학 공부하기
 
-> Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.   - Albert Einstein
-> 과거로 부터 배우고, 현재를 살며, 미래에 희망을 가져라. 중요한 것은 결고 질문을 멈추지 않는 것이다.   - 알베르트 아인슈타인
+> Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. - Albert Einstein
+
+> 과거로 부터 배우고, 현재를 살며, 미래에 희망을 가져라. 중요한 것은 결고 질문을 멈추지 않는 것이다. - 알베르트 아인슈타인
 
 <!--
 **yunites/yunites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
