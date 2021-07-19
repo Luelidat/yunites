@@ -1,4 +1,6 @@
 ![GITHUB-프로필-001 (1)](https://user-images.githubusercontent.com/81292281/126103576-22f04850-eaac-4d9f-b060-ae18fb1f880e.jpg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunites&show_icons=true&theme=tokyonight)](https://github.com/yunites/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunites&layout=compact&theme=tokyonight)](https://github.com/yunites)
 # Who am I?
 
 Hi I am YeJun Yun. I am a student, who enjoys developing. My dream is to become an artificial intelligence developer and physicist, and my goal is to develop super artificial intelligence and study physics.
@@ -29,9 +31,6 @@ I believe that AI with intelligence that surpasses humans will one day arrive. I
 > Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. - Albert Einstein
 
 > 과거로 부터 배우고, 현재를 살며, 미래에 희망을 가져라. 중요한 것은 결고 질문을 멈추지 않는 것이다. - 알베르트 아인슈타인
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunites&show_icons=true&theme=tokyonight)](https://github.com/yunites/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunites&layout=compact&theme=tokyonight)](https://github.com/yunites)
 
 <!--
 **yunites/yunites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
