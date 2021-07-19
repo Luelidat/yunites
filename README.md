@@ -11,7 +11,7 @@
 
 Hi I am YeJun Yun. I am a student, who enjoys developing. My dream is to become an artificial intelligence developer and physicist, and my goal is to develop super artificial intelligence and study physics.
 
-안녕하세요. 저는 윤예준이라고 합니다. 저는 개발을 재미로 하는, 학생입니다. 인공지능 개발자와 물리학자가 제 꿈이며, 초인공지능을 개발해 물리학을 연구하는 것이 제 목표입니다.
+안녕하세요. 저는 윤예준이라고 합니다. 저는 개발을 재미로 하는 학생입니다. 인공지능 개발자와 물리학자가 제 꿈이며, 초인공지능을 개발해 물리학을 연구하는 것이 제 목표입니다.
 
 ## Skills
 
