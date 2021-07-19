@@ -6,7 +6,7 @@
 
 ### Moat used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunites&layout=compact)](https://github.com/yunites)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunites&layout=compact&theme=tokynight)](https://github.com/yunites)
 # Who am I?
 
 Hi I am YeJun Yun. I am a student, who enjoys developing. My dream is to become an artificial intelligence developer and physicist, and my goal is to develop super artificial intelligence and study physics.
