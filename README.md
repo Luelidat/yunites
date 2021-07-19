@@ -31,7 +31,10 @@ I believe that AI with intelligence that surpasses humans will one day arrive. I
 > 과거로 부터 배우고, 현재를 살며, 미래에 희망을 가져라. 중요한 것은 결고 질문을 멈추지 않는 것이다. - 알베르트 아인슈타인
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunites)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunitesa&show_icons=true&theme=radical)
+[![HadongLee's github stats](https://github-readme-stats.vercel.app/api?username=yunites&show_icons=true&theme=dracula)](https://github.com/metleeha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunites&layout=compact&theme=dracula)](https://github.com/metleeha)
+
+출처: https://metleeha.tistory.com/entry/깃헙-프로필-꾸미기 [Hayden Devlog]
 <!--
 **yunites/yunites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
