@@ -4,11 +4,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunites&show_icons=true&theme=tokyonight)](https://github.com/yunites)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
 ### Moat used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunites&layout=compact&theme=tokyonight)](https://github.com/yunites)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunites&layout=compact)](https://github.com/yunites)
 # Who am I?
 
 Hi I am YeJun Yun. I am a student, who enjoys developing. My dream is to become an artificial intelligence developer and physicist, and my goal is to develop super artificial intelligence and study physics.
