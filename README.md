@@ -4,6 +4,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunites&show_icons=true&theme=tokyonight)](https://github.com/yunites)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 ### Moat used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunites&layout=compact&theme=tokyonight)](https://github.com/yunites)
