@@ -31,7 +31,6 @@ I believe that AI with intelligence that surpasses humans will one day arrive. I
 > 과거로 부터 배우고, 현재를 살며, 미래에 희망을 가져라. 중요한 것은 결고 질문을 멈추지 않는 것이다. - 알베르트 아인슈타인
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunites&show_icons=true&theme=tokyonight)](https://github.com/yunites/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunites&layout=compact&theme=tokyonight)](https://github.com/yunites)
 
 <!--
