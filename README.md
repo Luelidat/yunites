@@ -2,7 +2,7 @@
 
 ### GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunites&show_icons=true&include_all_commits=true&theme=react)](https://github.com/yunites)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunites&show_icons=true&include_all_commits=true&locale=en&theme=react)](https://github.com/yunites)
 
 ### Moat Used Languages
 
