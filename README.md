@@ -28,11 +28,11 @@ I believe that AI with intelligence that surpasses humans will one day arrive. I
 ## Detail
 
  1. Mastering various programming languages
-  각종 프로그래밍 언어 마스터하기
+    각종 프로그래밍 언어 마스터하기
  2. Creating artificial intelligence
-  인공지능 만들기
+    인공지능 만들기
  3. Study quantum mechanics
-   양자역학 공부하기
+    양자역학 공부하기
 
 > Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. - Albert Einstein
 
