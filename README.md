@@ -1,4 +1,5 @@
-![GITHUB-001](https://user-images.githubusercontent.com/81292281/145026509-ffba8daf-c5c3-423a-8372-3b8ffc30c6b5.jpg)
+![GITHUB-001](https://user-images.githubusercontent.com/81292281/157347713-e90fffe8-7e2e-4c84-aa4c-8c85463f9fc0.png)
+
 
 ### GitHub Stats
 
